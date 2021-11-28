@@ -9,9 +9,9 @@ Looking for an internship.
 
     Email :- vipinkumar19852001@gmail.com
     
-    Codeforces ID :- VipinKr.2016 , Live_to_learn
+    Codeforces ID :- Live_to_learn, VipinKr.2016
     
-    Codechef ID :- vipin2016, Vip2016
+    Codechef ID :- Vip2016, vipin2016
     
 
 <!---
