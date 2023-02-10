@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development.
 
 I am well versed in C/C++ programming and Data Structures and Algorithms.
-Looking for an internship.
+Looking for an internship or full time role.
 
 - 📫 How to reach me...
 
