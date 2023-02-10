@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming and Web Development 
 - 🌱 I’m currently learning Backend Development.
 
-I am well versed in C/C++ programming and Data Structures and Algorithms.
+I am well versed in C/C++ programming, Data Structures & Algorithms & have a huge interest in web development.
 Looking for an internship or full time role.
 
 - 📫 How to reach me...
@@ -15,8 +15,9 @@ Looking for an internship or full time role.
     
     Codechef ID :- Vip2016, vipin2016
     
+    Leetcode ID :- Who_knows_
 
 <!---
-Vip2016-0/Vip2016-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vip2016-0/Vip2016-0 is a ✨ special ✨ reposWho_knows_itory because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
